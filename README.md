@@ -1,3 +1,7 @@
+# Why?
+
+This manifesto works as a guideline for what the Metaverse is and how it must be built. Consider this as something that could potentially generate a consortium such as the W3C.
+
 # Identity
 
 The Metaverse is all about one's **identity** in a non-physical world. This identity must be interoperable and unique between spaces.
