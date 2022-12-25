@@ -13,7 +13,7 @@ Metaverse spaces must give users different elements to allow them to be eager to
 
 Since the Metaverse is about one's **identity** , it must also communicate with traditional Internet platforms as well as the real world. A Metaverse Identity could have as much of a social presence as a physical identity.
 
-# Built From Bottom and Up
+# Accessible
 
 The Metaverse must be built with the most used technology in order to be accessible by as many as possible. That said, it must be built using web and mobile friendly technology before porting to high-end devices such as VR.
 
